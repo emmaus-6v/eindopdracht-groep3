@@ -6,8 +6,6 @@ Servo servo_10;
 Servo servo_11;
 
 void setup() {
-  // stel ledpin in als output:
-  pinMode(ledPin, OUTPUT);
 
   pinMode(7, INPUT);
   servo_10.attach(10);
@@ -32,7 +30,7 @@ void loop() {
   servo_11.write(0);
  }
  delay(10); //Voor simulatie verbeteren 
-  
+
 }
 
 
