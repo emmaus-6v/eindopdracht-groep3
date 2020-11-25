@@ -10,6 +10,13 @@ const long interval = 1000;           // interval in milliseconden
 void setup() {
   // stel ledpin in als output:
   pinMode(ledPin, OUTPUT);
+
+  pinMode(7, INPUT);
+  servo_10.attach(10);
+
+  pinMode(4, INPUT);
+  servo_11.attach(11);
+
 }
 
 void loop() {
@@ -20,7 +27,7 @@ void loop() {
   if (millisNu - millisVorigeVerandering >= interval) {    
     // bewaar tijdstip van de verandering die we hierna gaan doen
     millisVorigeVerandering = millisNu;
-
+  }
     // zet de status van de LED om
     if (ledState == LOW) {
       ledState = HIGH;
@@ -30,5 +37,21 @@ void loop() {
 
     // geef de pin de waarde van de status
     digitalWrite(ledPin, ledState);
-  }
+
+   if (digitalRead(7) == HIGH) {
+    servo_10.write(90);
+   }
+   if (digitalRead(7) == LOW) {
+    servo_10.write(0);
+   }
+
+   if (digitalRead(4) == HIGH) {
+    servo_11.write(90);
+   }
+   if (digitalRead(4) == LOW) {
+    servo_11.write(0);
+   }
+   delay(10); //Voor simulatie verbeteren 
+
+  
 }
