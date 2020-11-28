@@ -45,19 +45,16 @@ void loop() {
     }
 
         if (digitalRead(7) == HIGH) {
-            servo_10.write(90);
-          }
-          if (digitalRead(7) == LOW) {
-            servo_10.write(0);
-          }
-
-          if (digitalRead(4) == HIGH) {
-            servo_11.write(90);
-          }
-          if (digitalRead(4) == LOW) {
-            servo_11.write(0);
-          }
-          delay(10); //Voor simulatie verbeteren 
+    servo_10.write(90);
+  } else {
+    servo_10.write(0);
+  }
+  if (digitalRead(4) == HIGH) {
+    servo_11.write(90);
+  } else {
+    servo_11.write(0);
+  }
+  delay(10); //Voor simulatie verbeteren 
     // geef de pin de waarde van de status
     digitalWrite(ledPin, ledState);
   }
