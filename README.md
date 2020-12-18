@@ -2,6 +2,7 @@
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Notalifeform/gitpodnode)
 ![6VWO Eindopdracht](https://img.shields.io/badge/6VWO-Eindopdracht-red)
+
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/emmaus-6v/eindopdracht-groep3)
 
 In dit repository beheer je het eindproject en plaats je de code voor
