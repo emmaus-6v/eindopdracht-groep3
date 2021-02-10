@@ -5,6 +5,12 @@ unsigned long previousTime = 0;
 
 int i = 0;
 
+const int pinServo10 = 7;
+const int pinServo11 = 4;
+// const int pinMarbleCount = A1;
+
+int marbleCount = 0; 
+
 Servo servo_10;
 Servo servo_11;
 
@@ -12,10 +18,10 @@ void setup() {
 
   Serial.begin(9600);
 
-  pinMode(7, INPUT);
+  pinMode(pinServo10, INPUT);
   servo_10.attach(10);
 
-  pinMode(4, INPUT);
+  pinMode(pinServo11, INPUT);
   servo_11.attach(11);
 }
 
@@ -51,12 +57,12 @@ unsigned long currentTime = millis();
 
      
 
-        if (digitalRead(7) == HIGH) {
+ if (digitalRead(pinServo10) == HIGH) {
     servo_10.write(90);
   } else {
     servo_10.write(0);
   }
-  /*if (digitalRead(4) == LOW) {
+  /*if (digitalRead(pinServo11) == LOW) {
     servo_11.write(90);
 
   } else {
@@ -64,7 +70,15 @@ unsigned long currentTime = millis();
   }
   delay(10); //Voor simulatie verbeteren 
     // geef de pin de waarde van de status
-   
+
+
+ /*
+ if (digitalRead(pinMarbleCount) == HIGH) {
+   marbleCount = marbleCount + 1;
+ }
+ Serial.println(marbleCount);  
+
+ */   
 }
 
 

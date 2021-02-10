@@ -1,5 +1,7 @@
 #include <Servo.h>
 
+// Verkeerde bestand, knikkerbaan.ino is de goede 
+
 int i = 0;
 
 Servo servo_10;

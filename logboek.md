@@ -1,27 +1,35 @@
 # Logboek
 
-Datum:
-Leerling:
-Uitgevoerd:
+Datum: 10-2-2021
+Leerling: Revenna 
+Uitgevoerd: variabelen voor teller toegevoegd, begincode teller als commentaar onderaan toegevoegd, pins vervangen door variabelen (leesbaarheid).
 
 ---
 
-Datum:
-Leerling:
-Uitgevoerd:
+Datum: 10-2-2021
+Leerlingen: Jasmijn en Charlie
+Uitgevoerd: begin gemaakt aan de fysieke knikkerbaan
 
 ---
 
-Datum:
-Leerling:
-Uitgevoerd:
+Datum: 10-2-2021
+Leerling: Thomas
+Uitgevoerd: begonnen met het uitzoeken van de code van de kleurensensor
 
 ---
 
-Datum:
-Leerling:
-Uitgevoerd:
+Datum: 10-2-2021
+Leerling: Lars 
+Uitgevoerd: overleg met docent
 
 ---
 
-etc...
+Datum: 10-2-2021
+Leerling: Daniëlle 
+Uitgevoerd: schets van de webpagina
+
+---
+
+Datum: 
+Leerling:
+Uitgevoerd:
