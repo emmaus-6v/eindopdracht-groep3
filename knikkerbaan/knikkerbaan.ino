@@ -1,6 +1,6 @@
 #include <Servo.h>
 
-const unsigned long moveSensorInterval =  random(3000, 6000 + 1);
+
 unsigned long previousTime = 0;
 
 int i = 0;
@@ -27,6 +27,8 @@ void setup() {
 
 void loop() {
 <<<<<<< HEAD
+
+const unsigned long moveSensorInterval =  random(2000, 4000 + 1);
   // tijd van nu
   
   /* Updates frequently */
@@ -35,10 +37,10 @@ unsigned long currentTime = millis();
   /* This is the event*/
   if( currentTime - previousTime >= moveSensorInterval){
     
-    if(moveSensorInterval <= 4500){
+    if(moveSensorInterval <= 3000){
       servo_11.write(90);
       Serial.println("Status servo 1:");
-      Serial.println("HIGH");
+      Serial.println("HIGH");  
     }
     else {
       servo_11.write(0);
