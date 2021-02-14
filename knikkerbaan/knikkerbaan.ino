@@ -37,9 +37,13 @@ unsigned long currentTime = millis();
     
     if(moveSensorInterval <= 4500){
       servo_11.write(90);
+      Serial.println("Status servo 1:");
+      Serial.println("HIGH");
     }
     else {
       servo_11.write(0);
+      Serial.println("Status servo 1:");
+      Serial.println("LOW");
     }
     
     if (ledState == LOW) {
