@@ -36,17 +36,18 @@ unsigned long currentTime = millis();
   /* This is the event*/
   if( currentTime - previousTime >= moveSensorInterval){
     
-    /* 
-
     servo_11.write(90);
+    Serial.println("Status servo 1:");
+    Serial.println("HIGH"); 
     previousTime = currentTime;
     if (currentTime - previousTime >= 2000) {
       servo_11.write(0);
+      Serial.println("Status servo 1:");
+      Serial.println("LOW");
     }
     previousTime = currentTime;
-    
-    */
 
+   /*
     if(moveSensorInterval <= 3000){
       servo_11.write(90);
       Serial.println("Status servo 1:");
