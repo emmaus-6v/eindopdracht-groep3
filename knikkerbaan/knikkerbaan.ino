@@ -29,7 +29,6 @@ void loop() {
 <<<<<<< HEAD
 
 const unsigned long moveSensorInterval =  random(2000, 4000 + 1);
-  // tijd van nu
   
   /* Updates frequently */
 unsigned long currentTime = millis();
@@ -37,6 +36,17 @@ unsigned long currentTime = millis();
   /* This is the event*/
   if( currentTime - previousTime >= moveSensorInterval){
     
+    /* 
+
+    servo_11.write(90);
+    previousTime = currentTime;
+    if (currentTime - previousTime >= 2000) {
+      servo_11.write(0);
+    }
+    previousTime = currentTime;
+    
+    */
+
     if(moveSensorInterval <= 3000){
       servo_11.write(90);
       Serial.println("Status servo 1:");
@@ -47,21 +57,10 @@ unsigned long currentTime = millis();
       Serial.println("Status servo 1:");
       Serial.println("LOW");
     }
-    
-    if (ledState == LOW) {
-      ledState = HIGH;
-    } else {
-      ledState = LOW;
-    }
-    digitalWrite(ledPin, ledState);
 
     previousTime = currentTime;
 
   }
-  
-   
-
-     
 
  if (digitalRead(pinServo10) == HIGH) {
     servo_10.write(90);
