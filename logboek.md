@@ -1,6 +1,11 @@
 # Logboek
 
 Datum: 10-2-2021
+Leerling: Lennard
+Uitgevoerd: Milis() toegevoegd, servos aangemaakt, begonnen met LCD scherm met data naar de seriële monitor sturen
+
+
+Datum: 10-2-2021
 Leerling: Revenna 
 Uitgevoerd: variabelen voor teller toegevoegd, begincode teller als commentaar onderaan toegevoegd, pins vervangen door variabelen (leesbaarheid).
 
