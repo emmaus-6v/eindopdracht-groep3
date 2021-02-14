@@ -7,7 +7,7 @@ int i = 0;
 
 const int pinServo10 = 7;
 const int pinServo11 = 4;
-// const int pinMarbleCount = A1;
+const int pinMarbleCount = A1;
 
 int marbleCount = 0; 
 
@@ -76,13 +76,12 @@ unsigned long currentTime = millis();
     // geef de pin de waarde van de status
 
 
- /*
  if (digitalRead(pinMarbleCount) == HIGH) {
    marbleCount = marbleCount + 1;
  }
  Serial.println(marbleCount);  
 
- */   
+    
 }
 
 
