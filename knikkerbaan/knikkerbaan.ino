@@ -7,7 +7,7 @@ int i = 0;
 
 const int pinServo10 = 7;
 const int pinServo11 = 4;
-const int pinMarbleCount = A1;
+const int pinMarbleCount = 2;
 
 int marbleCount = 0; 
 
