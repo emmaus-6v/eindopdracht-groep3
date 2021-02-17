@@ -2,6 +2,7 @@
 
 
 unsigned long previousTime = 0;
+unsigned long moveSensorInterval = 1000;
 
 int i = 0;
 
@@ -17,6 +18,7 @@ Servo servo_11;
 void setup() {
 
   Serial.begin(9600);
+  randomSeed(analogRead(0));
 
   pinMode(pinServo10, INPUT);
   servo_10.attach(10);
@@ -26,15 +28,30 @@ void setup() {
 }
 
 void loop() {
-<<<<<<< HEAD
 
-const unsigned long moveSensorInterval =  random(2000, 4000 + 1);
+  // moveSensorInterval =  random(2000, 4000 + 1);
   
   /* Updates frequently */
-unsigned long currentTime = millis();
+  unsigned long currentTime = millis();
   
   /* This is the event*/
   if( currentTime - previousTime >= moveSensorInterval){
+    long servoPositie = random(0, 1);
+    if (servoPositie == 0) {
+      servo_11.write(0);
+      Serial.println("Status servo 1:");
+      Serial.println("LOW");
+    }
+    else {
+      servo_11.write(90);
+      Serial.println("Status servo 1:");
+      Serial.println("HIGH");
+    }
+
+    moveSensorInterval = random(2000, 4000 + 1);
+    previousTime = currentTime;
+  }
+
     
     servo_11.write(90);
     Serial.println("Status servo 1:");
