@@ -20,13 +20,16 @@ app.use(express.static(path.join(__dirname, '/public')));
 
 // bepaal wat er moet gebeuren bij verzoeken op verschillende paden / routes van je URL:
 // ⬇︎ HIER JE EIGEN AANPASSINGEN MAKEN ⬇︎
+
+/*
 app.get('/', (_request, response) => {response.redirect('index.html'); })
 app.get('/api/checkchanges/:widgetTimeStamp', checkChanges);
 app.get('/api/addButtonPress', addButtonPress);
 app.get('/api/getTotalPresses', getTotalPresses);
 app.get('/api/setKnikkerbaanStatus/:newStatus', setKnikkerbaanStatus);
+*/
 
-
+app.get('/api/setMarbleCount/', setMarblecount);
 // start de server en geef een berichtje in de console dat het gelukt is!
 app.listen(port, () => {
   console.log(`App running on port ${port}.`)
@@ -147,5 +150,15 @@ function setKnikkerbaanStatus(_request, response) {
       throw error;
     }
     response.status(201).send("Status has been modified");
+  });
+}
+
+//setMarbleCount
+function setMarblecount(_request, response) {
+  pool.query("SELECT COUNT(*) AS totalButtonPresses, MAX(tijd) as lastTimeStamp  FROM buttonPresses;", (error, results) => {
+    if (error) {
+      throw error;
+    }
+    response.status(200).json(results.rows[0]);
   });
 }
