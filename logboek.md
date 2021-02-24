@@ -43,7 +43,7 @@ Uitgevoerd: geprobeerd servo's werkend te maken en concept-code marblecounter
 
 Datum: 24-2-2021
 Leerling: Lars
-Uitgevoerd: 
+Uitgevoerd: MarbleCount in server en database gezet
 
 ---
 
