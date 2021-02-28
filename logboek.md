@@ -1,5 +1,9 @@
 # Logboek
 
+Dit logboek is helaas niet compleet, we vergeten af en toe namelijk nog wel eens dingen toe te voegen.
+
+---
+
 Datum: 10-2-2021
 Leerling: Lennard
 Uitgevoerd: Milis() toegevoegd, servos aangemaakt, begonnen met LCD scherm met data naar de seriële monitor sturen
@@ -47,9 +51,15 @@ Uitgevoerd: MarbleCount in server en database gezet
 
 ---
 
-Datum: 28/02/2021
+Datum: 28-02-2021
 Leerling: Lars
 Uitgevoerd: Webwidget grotendeels gemaakt, mist alleen nog functie kleur en aantal knikkers
+
+---
+
+Datum: 28-02-2021
+Leerling: Revenna
+Uitgevoerd: Verslag versie 1 getypt, nog niet compleet
 
 ---
 
