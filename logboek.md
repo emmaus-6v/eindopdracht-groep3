@@ -47,9 +47,9 @@ Uitgevoerd: MarbleCount in server en database gezet
 
 ---
 
-Datum: 
-Leerling:
-Uitgevoerd:
+Datum: 28/02/2021
+Leerling: Lars
+Uitgevoerd: Webwidget grotendeels gemaakt, mist alleen nog functie kleur en aantal knikkers
 
 ---
 
