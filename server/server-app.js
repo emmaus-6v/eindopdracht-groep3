@@ -28,8 +28,8 @@ app.get('/api/addButtonPress', addButtonPress);
 app.get('/api/getTotalPresses', getTotalPresses);
 app.get('/api/setKnikkerbaanStatus/:newStatus', setKnikkerbaanStatus);
 */
+app.get('/api/getMarbleCount/', setMarblecount);
 
-app.get('/api/setMarbleCount/', setMarblecount);
 // start de server en geef een berichtje in de console dat het gelukt is!
 app.listen(port, () => {
   console.log(`App running on port ${port}.`)
@@ -83,7 +83,7 @@ function checkChanges(_request, response) {
   var lastWidgetChange = new Date();
   lastWidgetChange.setTime(_request.params.widgetTimeStamp);
   pool.query(`SELECT *
-                FROM (SELECT tijd FROM buttonPresses) AS alleTijden
+                FROM (SELECT tijd FROM marbleCount) AS alleTijden
                 WHERE tijd > $1`,
                 [lastWidgetChange], (error, results) => {
                   if (error) {
@@ -114,7 +114,7 @@ function addButtonPress(_request, response) {
     if (error) {
       throw error;
     }
-    response.status(201).send(`ButtonPress added with ID: ${results.rows[0].id}`);
+    response.status(201).send(`marbleCount added with ID: ${results.rows[0].id}`);
   });
 }
 
