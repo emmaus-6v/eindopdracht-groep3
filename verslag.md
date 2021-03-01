@@ -55,6 +55,16 @@ Uiteindelijk verliep onze communicatie wel goed, maar vooral aan het begin kon h
 ## Reflectie 
 
 #### Lennard
+Als eerste wil ik zeggen dat de samenwerking vrij goed was, er is een individuele groepsapp aangemaakt en we zijn volgens de planning gaan werken. 
+Echter is het zo dat ik denk dat het grootste probleem was dat we tijdens de lessen elkaar niet konden ondersteunen doordat de groepjes allemaal op andere dagen aanwezig waren.
+De knikkerbaan in elkaar zetten is een erg leuk idee. Alleen ivm corona was het in elkaar zetten hiervan vrijwel onmogelijk. 
+Het mee naar huis nemen van de baan was een optie geweest alleen niet iedereen heeft de benodigde spullen om er iets van te maken.
+Zelf heb ik met de arduino vaak geprobeerd aan de code te werken. De onderdelen van de arduino waren erg vaag. 
+Hier bedoel ik mee dat ik 5 uur aan een lcd scherm heb zitten werken en toen bleek dat het lcd scherm überhaupt niet compatibel was met het arduino rev2 bord. 
+Ik moest erg veel tijd in de arduino stoppen voor maar een klein beetje resultaat. Dit frustreerde mij behoorlijk.
+Over het algemeen ben ik wel tevreden met het groepje.
+Ik ben vooral van mening dat de kwaliteit en kwantiteit van de hulp/uitleg tijdens het project in deze tijden van corona substantieel lager ligt dan voor covid-19 (Dit ligt aan heel veel factoren). 
+Wat juist bij een ‘nieuw’ concept in 6v (wat voorheen juist een zelf invulbaar project was) juist zo hard nodig is.
 
 #### Jasmijn
 
@@ -89,7 +99,6 @@ Zo was de eerste inlever datum tijdens de PWS presentaties, dat zorgt ervoor dat
 hier moest ik dan ook al voor leren. Hiernaast waren er nog een aantal projecten die ik af heb moeten ronden vlak voor informatica. De grootste reden voor onze, toch wel armoedige, poging is denk ik dat het gewoon niet helemaal duidelijk was wat
 we nou precies de bedoeling was en wat we moesten doen. Daarnaast denk ik toch dat er in de lessen te weinig server behandeld is om deze code goed te begrijpen, want waar we aan html en css een hele periode hebben besteed hebben we aan de code van
 de server maar een paar lessen besteed. Hoewel ik eerlijk gezegd niet tevreden ben met ons eindproduct heb ik wel mijn best gedaan en heb ik veel geleerd.
-
 
 #### Algemeen
 Ons hele groepje is het er wel over eens dat, hoewel we echt ons best hebben gedaan om alles te snappen, deze opdracht te ver gegrepen was voor ons.
