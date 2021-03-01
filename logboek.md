@@ -63,6 +63,6 @@ Uitgevoerd: Verslag versie 1 getypt, nog niet compleet
 
 ---
 
-Datum: 
-Leerling:
-Uitgevoerd:
+Datum: 01-03-2021
+Leerling: Charlie
+Uitgevoerd: Webwidget geprobeerd werkend te krijgen
