@@ -39,6 +39,10 @@ Een laatste keer alles langs lopen. Ziet alles er netjes uit?
 ### sprint 6
 De allerlaatste check of alles werkt met elkaar. 
 
+### Hoe het echt is gegaan
+We zijn denken we best goed begonnen. Tussendoor ging het even wat stroever, vanwege de nieuwe maatregelen.
+Dichter bij de deadline hebben we toch nog even geprobeerd te knallen.
+
 
 ## Technische verantwoording
 De communicatie was af en toe wel een drempel. 
@@ -54,16 +58,30 @@ Uiteindelijk verliep onze communicatie wel goed, maar vooral aan het begin kon h
 
 #### Jasmijn
 
-#### Thomas
-heyy thomas hier, ik wilde dus me bij revenna aan sluiten dat het echt een leuk idee was, en we hadden mooi samen gewerkt om een mooi knikkerbaan design te maken wat ook goedmogelijk was. maar corona blijft een dingetje want als ik steeds wilde werken was de toa weg.
-dus was het niet mogelijk en ik denk dat het voor meerdere van ons groepje dat ook heeft meegemaakt maar naast dat was de communicatie erg goed.
-maar door corona heb je toch een bepaald contact wat je met een docent mist voor de opdracht dat het niet duidelijk is voor hoe we het voor elkaar kunnen krijgen.
-of dat het voor ons te vaag was maar naast dat ik ga nooit meer met kleurensensors werken want ik heb dr 2u naar gekeken ik snap de seeed nog steeds niet.
-en als je elkaar ziet met het groepje kan je toch elkaar iets meer helpen dan echter een telefoon want we mogen inprincipe elkaar ook niet echt opzoeken. om te helpen met de hele groepje
-maar dat is gwn zon ding waat je hebt met telefoons. en ohja iets belangerijks vergeten ik vind het ook erg moeilijk om aan arduino te werken zonder of je het weet dat het echt werkt terwijl je in de klas dan 1 iemand bij zich had en dan kon je samen knoeien om werken te krijgen omdat je kan uitproberen.
+#### Daniëlle 
 
 #### Charlie
-Als eerst wil ik zeggen dat ik dit project een super creatieve en leuk verzonnen opdracht vond, maar ik moet wel toegeven dat het nogal pittig was. Het was vooral in het begin erg moeilijk om ergens te beginnen ook wist ik lang niet wat er precies verwacht werd. Toen de scholen ook nog eens dicht gingen, werd communicatie echt wel lastig. Bovendien heb ik persoonlijk problemen ervaren met GitHub en Gitpod, waardoor ik soms verhinderd werd. Zo kon ik bijvoorbeeld soms ineens niks pushen of kwam ik er niet in. Ook denk ik dat we het ons zelf met de kleurensensor erg moeilijk hebben gemaakt, aangezien ik hier ook ondanks de hulp van mijn vader niet helemaal uitkwam. Ik denk dat het proces beter had verlopen als we vaker en strenger op ons zelf hadden geweest. Toch hebben we de laatste weken echt samen het beste ervan hebben gemaakt, terwijl iedereen ook druk was met PWS’en en toetsweken. Ik kan wel zeggen dat ik van dit PO wel veel heb geleerd!
+Als eerst wil ik zeggen dat ik dit project een super creatieve en leuk verzonnen opdracht vond, maar ik moet wel toegeven dat het nogal pittig was. 
+Het was vooral in het begin erg moeilijk om ergens te beginnen, ook wist ik lang niet wat er precies verwacht werd. Toen de scholen ook nog eens dicht gingen, werd communicatie echt wel lastig. 
+Bovendien heb ik persoonlijk problemen ervaren met GitHub en Gitpod, waardoor ik soms verhinderd werd. Zo kon ik bijvoorbeeld soms ineens niks pushen of kwam ik er niet in. 
+Ook denk ik dat we het ons zelf met de kleurensensor erg moeilijk hebben gemaakt, aangezien ik hier ook ondanks de hulp van mijn vader niet helemaal uitkwam. 
+Ik denk dat het proces beter had verlopen als we vaker en strenger op ons zelf hadden geweest. Toch hebben we de laatste weken echt samen het beste ervan hebben gemaakt, terwijl iedereen ook druk was met PWS’en en toetsweken. 
+Ik kan wel zeggen dat ik van dit PO wel veel heb geleerd!
+
+#### Revenna
+Als ik eerlijk ben, vond ik dit project niet heel fijn. Het idee ervan was wel heel leuk, omdat een knikkerbaan ook wel enthousiasme opwekt.
+Maar als ik terug kijk naar het proces heb ik ook een beetje het idee dat niemand echt begreep hoe iets moest. 
+We begrepen wel uiteindelijk wat de bedoeling was, maar niet hoe we dat dan voor elkaar moesten krijgen. 
+Het helpt natuurlijk ook niet als de docent in zijn eentje alle groepjes moet zien te helpen, het was misschien ook wat rustgevender geweest voor zowel docent als leerlingen als er een tweede docent of een soort assistent aanwezig was.
+Voor mij was dit in ieder geval iets te geavanceerd... 
+
+#### Thomas
+Heyy Thomas hier, ik wilde dus me bij Revenna aan sluiten dat het echt een leuk idee was, en we hadden mooi samen gewerkt om een mooie knikkerbaan design te maken wat ook goed mogelijk was. Maar corona blijft een dingetje, want als ik steeds wilde werken was de toa weg.
+Dus was het niet mogelijk en ik denk dat het voor meerdere van ons groepje geldt die dat ook hebben meegemaakt, maar naast dat was de communicatie erg goed.
+Maar door corona heb je toch een bepaald contact wat je met een docent mist voor de opdracht dat het niet duidelijk is voor hoe we het voor elkaar kunnen krijgen.
+Of dat het voor ons te vaag was, maar naast dat ik ga nooit meer met kleurensensors werken want ik heb dr 2u naar gekeken ik snap de seeed nog steeds niet.
+En als je elkaar ziet met het groepje kan je toch elkaar iets meer helpen dan echter een telefoon want we mogen inprincipe elkaar ook niet echt opzoeken. om te helpen met de hele groepje.
+Maar dat is gewoon zo'n ding wat je hebt met telefoons. En ohja iets belangerijks vergeten, ik vind het ook erg moeilijk om aan arduino te werken zonder of je het weet dat het echt werkt terwijl je in de klas dan 1 iemand bij zich had en dan kon je samen knoeien om het werkend te krijgen omdat je kan uitproberen.
 
 #### Lars
 Terug kijkend op dit project vind ik het idee van een knikkerbaan een heel tof idee. Ik vind het dan ook zeer jammer dat wij er niet goed uit zijn gekomen, dit heeft met een aantal factoren te maken denk ik.
@@ -72,14 +90,6 @@ hier moest ik dan ook al voor leren. Hiernaast waren er nog een aantal projecten
 we nou precies de bedoeling was en wat we moesten doen. Daarnaast denk ik toch dat er in de lessen te weinig server behandeld is om deze code goed te begrijpen, want waar we aan html en css een hele periode hebben besteed hebben we aan de code van
 de server maar een paar lessen besteed. Hoewel ik eerlijk gezegd niet tevreden ben met ons eindproduct heb ik wel mijn best gedaan en heb ik veel geleerd.
 
-#### Daniëlle 
-
-#### Revenna
-Als ik eerlijk ben, vond ik dit project niet heel fijn. Het idee ervan was wel heel leuk, omdat een knikkerbaan ook wel enthousiasme opwekt.
-Maar als ik terug kijk naar het proces heb ik ook een beetje het idee dat niemand echt begreep hoe iets moest. 
-We begrepen wel uiteindelijk wat de bedoeling was, maar niet hoe we dat dan voor elkaar moesten krijgen. 
-Het helpt natuurlijk ook niet als de docent in zijn eentje alle groepjes moet zien te helpen, het was misschien ook wat rustgevender geweest voor zowel docent als leerlingen als er een tweede docent of een soort assistent aanwezig was.
-Voor mij was dit in ieder geval iets te geavanceerd... 
 
 #### Algemeen
 Ons hele groepje is het er wel over eens dat, hoewel we echt ons best hebben gedaan om alles te snappen, deze opdracht te ver gegrepen was voor ons.
