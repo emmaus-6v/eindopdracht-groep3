@@ -74,6 +74,10 @@ Voordat die maatregelen gehandhaafd werden, kostte ander schoolwerk zoals toetsw
 Ondanks alles hebben we toch een goede communicatie gehad met elkaar en een tof resultaat neergezet!
 
 #### Daniëlle 
+Om te beginnen vond ik het een erg lastige opdracht om te maken. Het idee om een knikkerbaan te maken is een heel leuk idee, maar voor mij was de opdracht iets te ingewikkeld.
+Ik wist vaak niet wat we precies moesten doen en wat er precies verwacht werd. Ik vond het ook lastig, omdat ik merkte dat ik eigenlijk niet op het niveau van coderen zat die nodig was voor de opdracht.
+Toen de scholen daarna ook nog eens dicht gingen en we in de verschillende groepjes naar school moesten, werd de opdracht nog lastiger, omdat de communicatie lastiger werd.
+Ik denk dat we er het beste van hebben gemaakt terwijl iedereen druk was met onder andere PWS'en en toetsweken. Ondanks alles heb ik nog wel veel geleerd van deze opdracht!
 
 #### Charlie
 Als eerst wil ik zeggen dat ik dit project een super creatieve en leuk verzonnen opdracht vond, maar ik moet wel toegeven dat het nogal pittig was. 
