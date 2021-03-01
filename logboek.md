@@ -70,5 +70,11 @@ Uitgevoerd: Webwidget geprobeerd werkend te krijgen
 ---
 
 Datum: 01-03-2021
+Leerling: iedereen
+Uitgevoerd: Eigen reflectie geschreven
+
+---
+
+Datum: 01-03-2021
 Leerling: Revenna
-Uitgevoerd: Verdergegaan aan verslag 
+Uitgevoerd: Verslag afgemaakt 

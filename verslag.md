@@ -67,6 +67,11 @@ Ik ben vooral van mening dat de kwaliteit en kwantiteit van de hulp/uitleg tijde
 Wat juist bij een ‘nieuw’ concept in 6v (wat voorheen juist een zelf invulbaar project was) juist zo hard nodig is.
 
 #### Jasmijn
+Zodra we te horen kregen wat voor een project we moesten doen, leek het me echt leuk om ermee aan de slag te gaan.
+Een gedeelte van een knikkerbaan maken met sensoren erin was een origineel idee. We hadden een leuk concept bedacht van een knikkerbaan met onder andere een kleurensensor.
+Toch bleek het wat ingewikkelder en vager dan gedacht. Door Corona werd het lastiger om eraan te werken en te overleggen met elkaar, omdat uiteindelijk maar een gedeelte naar school kwam.
+Voordat die maatregelen gehandhaafd werden, kostte ander schoolwerk zoals toetsweken en PWS ons ook veel tijd. Daarnaast was het niet erg handig dat ons groepje verdeeld was over twee klassen.
+Ondanks alles hebben we toch een goede communicatie gehad met elkaar en een tof resultaat neergezet!
 
 #### Daniëlle 
 
