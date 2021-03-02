@@ -78,3 +78,9 @@ Uitgevoerd: Eigen reflectie geschreven
 Datum: 01-03-2021
 Leerling: Revenna
 Uitgevoerd: Verslag afgemaakt 
+
+--- 
+
+Datum: 02-03-2021
+Leerling: Thomas
+Uitgevoerd: Code kleurensensor 
