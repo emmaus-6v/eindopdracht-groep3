@@ -84,3 +84,8 @@ Uitgevoerd: Verslag afgemaakt
 Datum: 02-03-2021
 Leerling: Thomas
 Uitgevoerd: Code kleurensensor 
+
+---
+Datum 03-03-2021
+Leerling: iedereen 
+Uitgevoerd: Laatste kleine wijzigingen
