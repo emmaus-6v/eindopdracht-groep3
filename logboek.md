@@ -56,6 +56,10 @@ Leerling: Lars
 Uitgevoerd: Webwidget grotendeels gemaakt, mist alleen nog functie kleur en aantal knikkers
 
 ---
+Datum: 28-02-2021
+Leerling: Lennard
+Uitgevoerd: arduino geprobeerd geheel te laten werken, problemen seriele monitor gefixt, servos aangesloten op fysieke arduino, lcd scherm in tinkercad aangesloten en geprobeerd connectie te maken om marble count er op te krijgen, niet gelukt door te veel foutmeldingen
+---
 
 Datum: 28-02-2021
 Leerling: Revenna
